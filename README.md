@@ -1,2 +1,2 @@
 # UE4-GUIDE-STYLE
-Unreal Engine project Guide Template (by @GaMeKin)
+Unreal Engine project Guide Template (by @gamekin)
